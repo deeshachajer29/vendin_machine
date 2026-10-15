@@ -37,7 +37,7 @@ The controller accepts coin inputs and manages the dispensing operation accordin
 
 The vending machine controller was simulated using Verilog HDL, and its behavior was inspected using GTKWave. The waveform displays the coin input, current state, next state, clock, reset, and dispensing output, illustrating the controller's state transitions during simulation.
 
-![Vending Machine FSM Waveform](Screenshot(94).png)
+![Screenshot(94).png](Screenshot(94).png)
 
 ## Future Improvements
 - Support multiple product selections and prices.
